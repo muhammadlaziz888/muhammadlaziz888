@@ -2,10 +2,10 @@
 
 Men dasturlashga qiziqadigan va doimiy o'rganishda bo'lgan . Kasbim: Front-end  dasturchiman. 🚀
 
-- 🔭 Hozirda **[Loyiha nomi]** ustida ishlayapman.
-- 🌱 Hozirda **[O'rganayotgan texnologiyangiz]** ni chuqurroq o'rganmoqdaman.
+- 🔭 Hozirda Dasturlash ustida ishlayapman.
+- 🌱 Hozirda HTML,CSS, JSni chuqurroq o'rganmoqdaman.
 - 💬 Dasturlash va texnologiyalar haqida savollaringiz bo'lsa, murojaat qilishingiz mumkin.
-- 📫 Menga bog'lanish: [Email yoki ijtimoiy tarmoq].
+- 📫 Menga bog'lanish:[muhammadlaziz808@gmail.com]
 
 ---
 
@@ -26,16 +26,16 @@ Men dasturlashga qiziqadigan va doimiy o'rganishda bo'lgan . Kasbim: Front-end  
 ### 📊 GitHub Statistikasi
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadlaziz888&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadlaziz888&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌐 Biz bilan bog'lanish:
 
-- Telegram: [@username](https://t.me/username)
-- LinkedIn: [Profil havolasi](https://linkedin.com/in/username)
+- Telegram: [@username](@muhammadlaziz888)
+- Email: [Profil havolasi]( muhammadlaziz808@gmail.com)
